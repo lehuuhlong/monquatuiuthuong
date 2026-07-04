@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Long <3',
     btnReply: 'Gửi cho Long <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Long biết mà 🥰. Yêu dỗi nhiều nhiều 😘😘',
+    mess: 'Long biết mà 🥰. Yêu Vân nhiều nhiều 😘😘',
     messDesc: 'Ngày mai cùng Long đi chơi nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://m.me/longlee2000'
